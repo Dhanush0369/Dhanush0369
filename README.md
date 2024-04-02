@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **various Cloud Technologies like Docker,kubernetes,Jenkins and more..**
 
-- 💬 I'm familiar with **react,express,node,mongoDB.**
+- 💬 I'm familiar with **rust,golang,python,javascriptreact,express,node,mongoDB.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
