@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhanush</h1>
-<h3 align="center">An aspiring DevOps engineer from India. I am currently a 3rd year undergraduate student from IIT Kharagpur.</h3>
+<h3 align="center">An aspiring DevOps engineer from India. I am currently a 4rd year undergraduate student from IIT Kharagpur.</h3>
 
 - 🌱 I’m currently learning **various Cloud Technologies like Docker,kubernetes,Jenkins and more..**
 
