@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhanush</h1>
-<h3 align="center">An aspiring DevOps engineer from India. I am currently a 4rd year undergraduate student from IIT Kharagpur.</h3>
+<h3 align="center">I am a recent graduate from IIT Kharagpur.</h3>
 
-- 🌱 I’m currently learning **various Cloud Technologies like Docker,kubernetes,Jenkins and more..**
 
-- 💬 I'm familiar with **rust,golang,python,javascriptreact,express,node,mongoDB.**
+- 💬 I'm familiar with **python,javascript,react,express,node,mongoDB.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
